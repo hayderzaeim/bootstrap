@@ -17,6 +17,9 @@ import ScrollSpy from './src/scrollspy'
 import Tab from './src/tab'
 import Toast from './src/toast'
 import Tooltip from './src/tooltip'
+import NABU from './src/nabu/nabu'
+
+
 
 export default {
   Alert,
@@ -30,5 +33,6 @@ export default {
   ScrollSpy,
   Tab,
   Toast,
-  Tooltip
+  Tooltip,
+  NABU
 }

@@ -17,3 +17,5 @@ export { default as ScrollSpy } from './src/scrollspy'
 export { default as Tab } from './src/tab'
 export { default as Toast } from './src/toast'
 export { default as Tooltip } from './src/tooltip'
+export { default as NABU } from './src/nabu/nabu'
+

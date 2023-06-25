@@ -1,4 +1,4 @@
-// file2.js
+
 
 /**
  * Class representing NABU.
@@ -141,4 +141,4 @@ class NABU {
 
     }
   }
-  
+  export default NABU
